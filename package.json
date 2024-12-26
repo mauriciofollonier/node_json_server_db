@@ -1,0 +1,14 @@
+{
+  "name": "json-server-project",
+  "version": "0.0.1",
+  "description": "Create an small server with tutorial info",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Mauricio Follonier",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "teachers": [
+    {
+      "name": "Dominic",
+      "lastname": "Toretto",
+      "classes": [
+        {
+          "name": "NodeJS"
+        },
+        {
+          "name": "ReactJS"
+        },
+        {
+          "name": "TypeScript"
+        }
+      ],
+      "id": "58db"
+    }
+  ],
+  "students": [
+    {
+      "name": "Bryan",
+      "lastname": "Splinner",
+      "average": 8.2,
+      "id": "dac2"
+    },
+    {
+      "name": "Rome",
+      "lastname": "Carter",
+      "average": 6.8,
+      "id": "13bf"
+    },
+    {
+      "name": "Agustin",
+      "lastname": "Laje",
+      "average": 9.9,
+      "id": "3441"
+    },
+    {
+      "id": "f4b8",
+      "name": "George",
+      "lastname": "Orwell",
+      "average": 10
+    }
+  ],
+  "courses": [
+    {
+      "name": "NodeJS",
+      "duration": 3,
+      "difficulty": "low",
+      "id": "85cb"
+    },
+    {
+      "name": "ReactJS",
+      "duration": 5,
+      "difficulty": "high",
+      "id": "ad5e"
+    },
+    {
+      "name": "TypeScript",
+      "duration": 2,
+      "difficulty": "intermediate",
+      "id": "0a9a"
+    }
+  ]
+}
